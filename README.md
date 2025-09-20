@@ -1,2 +1,2 @@
 # Deepak-Singh
-Deepak Singh DSA, LLD &amp; HLD Repo in Java 
+Learn DSA, LLD &amp; HLD in Java with Deepak Singh (SSE-Walmart)
